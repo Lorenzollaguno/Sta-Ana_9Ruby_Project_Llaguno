@@ -1,0 +1,40 @@
+    #div1{
+    	border-style: dotted;
+    	border color: #737A6E  ;
+    	margin: 15%;
+    	Padding: 12px;
+        background-color:#000000 ;
+            }
+
+     img{
+        height: 68%;
+        width: 68%;
+        im
+        margin-left: 150px;
+        margin-right: 130px;
+        border: 1px solid #add;
+        border-radius: 4px;
+        padding: 5px;
+    }
+
+    h3{
+        font-family: 'Golos Text', sans-serif;
+        font-size: 39pt;
+        text-align: center;
+        margin top: 6px;
+        outline: 6;
+        display: inline-block;
+        padding: 12px;
+        color: white;
+    }
+
+    p{
+        font-family: 'Golos Text', sans-serif;
+        font-size: 39pt;
+        text-align: center;
+        margin top: 6px;
+        outline: 6;
+        display: inline-block;
+        padding: 12px;
+        color: white;
+    }
